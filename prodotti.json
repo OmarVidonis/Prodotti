@@ -1,7 +1,7 @@
 {
     "prodotti" : [
         {
-            "name" : "mele",
+            "name" : "banane",
             "description" : "banane gialle provenienti dal Africa",
             "image" : "https://m.media-amazon.com/images/I/617jF6tZJPL._AC_UF894,1000_QL80_.jpg",
             "prize" : "2$"
